@@ -1,1 +1,1 @@
-- <h1>👋 Hi, I’m @gopi-trip</h1>
+- <h1>👋 Hi, I’m Gopikrishnan Tripathy</h1>
