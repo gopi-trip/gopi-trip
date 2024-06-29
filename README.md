@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gopi-trip&theme=dark" alt="GitHub Streak" /></a>
+
 <!--
 **gopi-trip/gopi-trip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
