@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
 <div style = "text-align:center;">
   <h3 align="center">A passionate frontend developer from India</h3>
 
