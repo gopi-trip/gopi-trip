@@ -1,5 +1,6 @@
 ## Hi there 👋
-<h3 align="center">A passionate frontend developer from India</h3>
+<div style = "text-align:center;">
+  <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopi-trip&label=Profile%20views&color=0e75b6&style=flat" alt="gopi-trip" /> </p>
 
@@ -20,6 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopi-trip&show_icons=true&locale=en" alt="gopi-trip" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopi-trip&" alt="gopi-trip" /></p>
+
+</div>
 
 
 <!--
