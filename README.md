@@ -1,7 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
 <div style = "text-align:center;">
-  <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gopi-trip&label=Profile%20views&color=0e75b6&style=flat" alt="gopi-trip" /> </p>
 
 <h2 align="center">Connect with me:</h2>
