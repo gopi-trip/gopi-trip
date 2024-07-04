@@ -21,7 +21,7 @@
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopi-trip&" alt="gopi-trip" /></p>
 
 </div>
-
+<p>&#127942; GitHub Trophies</p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=gopi-trip)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
