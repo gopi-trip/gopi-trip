@@ -7,10 +7,7 @@
 <a href="https://linkedin.com/in/gopikrishnan-tripathy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopikrishnan-tripathy" height="40" width="50" /></a>
 <a href="https://instagram.com/gopitrip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopitrip" height="40" width="50" /></a>
 <a href="https://www.codechef.com/users/gopitripgt123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gopitripgt123" height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/gopitrip_gt123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gopitrip_gt123" height="40" width="50" /></a>
-<a href="https://codeforces.com/profile/gopitrip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gopitrip" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/gopitrip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gopitrip" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gopitriyfcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gopitriyfcn" height="40" width="50" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
