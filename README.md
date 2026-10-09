@@ -18,9 +18,6 @@
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopi-trip&" alt="gopi-trip" /></p>
 
 </div>
-<a><p>&#127942; GitHub Trophies</p></a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gopi-trip)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **gopi-trip/gopi-trip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
